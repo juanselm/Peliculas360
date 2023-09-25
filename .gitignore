@@ -554,3 +554,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# se evita cargar el package-lock.json
+package-lock.json
