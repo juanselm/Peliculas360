@@ -440,7 +440,6 @@ chrome-user-data
 *.swo
 .cache/
 dist/
-.env
 .DS_Store
 coverage
 
